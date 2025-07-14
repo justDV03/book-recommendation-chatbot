@@ -20,7 +20,7 @@ This is a smart conversational assistant that recommends books based on genre, m
 - `docs/how_it_works.md`: Breakdown of logic and structure
 
 ## 📸 Screenshots
-
+![Chatbot Flow](screenshot 864)
 
 ## 🛠 Tools Used
 - IBM Watsonx Assistant
