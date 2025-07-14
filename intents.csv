@@ -1,0 +1,126 @@
+Book recommendations by my favorite author,author_query
+Books by J.K. Rowling,author_query
+Show me books by Dan Brown,author_query
+I want to read something from Agatha Christie,author_query
+Find me books by Chetan Bhagat,author_query
+What has George Orwell written?,author_query
+Any books by Khaled Hosseini?,author_query
+Give me a list of books by Paulo Coelho,author_query
+Show novels from Nicholas Sparks,author_query
+I like books by Ruskin Bond,author_query
+I love sci-fi and thrillers,book_genre
+Recommend something in romance,book_genre
+Do you have anything in fantasy?,book_genre
+Give me a romance novel,book_genre
+Recommend some mystery,book_genre
+I like horror books,book_genre
+Recommend a romance novel,book_genre
+Suggest a mystery book,book_genre
+Recommend me a comedy,book_genre
+"I like historical fiction, got anything?",book_genre
+exit,goodbye
+#goodbye,goodbye
+End conversation,goodbye
+Close this chat,goodbye
+That's all,goodbye
+Quit,goodbye
+I'm done,goodbye
+Talk to you soon,goodbye
+Catch you later,goodbye
+See you later,goodbye
+Goodbye,goodbye
+bye,goodbye
+see you,goodbye
+Thank you,gratitude
+Thanks a lot,gratitude
+Thanks for the help,gratitude
+Thank you so much,gratitude
+That was helpful,gratitude
+Appreciate it,gratitude
+Thnx,gratitude
+Thank you buddy,gratitude
+Cheers,gratitude
+Thanks,gratitude
+What is LibroBot?,greet_user
+Greetings,greet_user
+Yo,greet_user
+Hi there,greet_user
+Hey bot,greet_user
+Hey,greet_user
+can u suggest book,greet_user
+hi,greet_user
+hello,greet_user
+compare these books for x category,greet_user
+hey there,greet_user
+Good evening,greet_user
+suggest me a book,greet_user
+what can you do?,greet_user
+You there?,greet_user
+Can you help me find books?,greet_user
+Yo!,greet_user
+Good morning,greet_user
+What's up?,greet_user
+I’m really stressed,mood_based
+I'm sad,mood_based
+I feel bored,mood_based
+I’m feeling sad,mood_based
+I’m super excited,mood_based
+I’m happy,mood_based
+I’m bored,mood_based
+Feeling romantic,mood_based
+I'm feeling happy,mood_based
+I’m not in the mood,mood_based
+Recommend a book for my mood,mood_based
+Can you suggest based on how I feel?,mood_based
+I want a book to match my mood,mood_based
+I’m feeling neutral,mood_based
+Give me beginner-friendly books,reading_level
+Advanced reading suggestions,reading_level
+I want something easy to read,reading_level
+I’m a beginner,reading_level
+Books for beginners,reading_level
+Recommend books for kids,reading_level
+Easy books to start reading,reading_level
+I want an intermediate level book,reading_level
+Suggest me an advanced book,reading_level
+Books for high-level readers,reading_level
+Books by reading difficulty,reading_level
+I want to level up my reading,reading_level
+Books for casual readers,reading_level
+Suggest a thriller novel,recommend_book
+Recommend me a book in romance,recommend_book
+Any good books to suggest?,recommend_book
+What book should I read?,recommend_book
+Give me a book recommendation,recommend_book
+I want a book suggestion,recommend_book
+Suggest a good book to read,recommend_book
+Give me a romance book,recommend_book
+suggest me a book,recommend_book
+Recommend something,recommend_book
+Any good book?,recommend_book
+Suggest me a romantic novel,recommend_book
+Recommend me a book of romance,recommend_book
+yes,recommend_book
+Can you recommend me a book?,recommend_book
+Any good romance books?,recommend_book
+Book in the romance category,recommend_book
+Recommend a mystery book,recommend_book
+Show me a good book,recommend_book
+I need a reading suggestion,recommend_book
+Find a book I might like,recommend_book
+I’m looking for a good novel,recommend_book
+Give me a sci-fi book to read,recommend_book
+Book for me in fantasy genre,recommend_book
+What's everyone reading these days?,top_books
+What’s popular in books now?,top_books
+Most loved books,top_books
+Bestselling books suggestion,top_books
+Top 10 novels,top_books
+Popular books,top_books
+Best books of all time,top_books
+What are the best books right now?,top_books
+Give me a list of popular books,top_books
+Top 10 books currently,top_books
+Most read books,top_books
+Show trending books,top_books
+Hot books this month,top_books

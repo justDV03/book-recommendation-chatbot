@@ -1,0 +1,1297 @@
+{
+  "intents": [
+    {
+      "intent": "author_query",
+      "examples": [
+        {
+          "text": "Any books by Khaled Hosseini?"
+        },
+        {
+          "text": "Book recommendations by my favorite author"
+        },
+        {
+          "text": "Books by J.K. Rowling"
+        },
+        {
+          "text": "Find me books by Chetan Bhagat"
+        },
+        {
+          "text": "Give me a list of books by Paulo Coelho"
+        },
+        {
+          "text": "I like books by Ruskin Bond"
+        },
+        {
+          "text": "I want to read something from Agatha Christie"
+        },
+        {
+          "text": "Show me books by Dan Brown"
+        },
+        {
+          "text": "Show novels from Nicholas Sparks"
+        },
+        {
+          "text": "What has George Orwell written?"
+        }
+      ]
+    },
+    {
+      "intent": "book_genre",
+      "examples": [
+        {
+          "text": "Do you have anything in fantasy?"
+        },
+        {
+          "text": "Give me a romance novel"
+        },
+        {
+          "text": "I like historical fiction, got anything?"
+        },
+        {
+          "text": "I like horror books"
+        },
+        {
+          "text": "I love sci-fi and thrillers"
+        },
+        {
+          "text": "Recommend a romance novel"
+        },
+        {
+          "text": "Recommend me a comedy"
+        },
+        {
+          "text": "Recommend some mystery"
+        },
+        {
+          "text": "Recommend something in romance"
+        },
+        {
+          "text": "Suggest a mystery book"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Close this chat"
+        },
+        {
+          "text": "End conversation"
+        },
+        {
+          "text": "exit"
+        },
+        {
+          "text": "#goodbye"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Quit"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Talk to you soon"
+        },
+        {
+          "text": "That's all"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "gratitude",
+      "examples": [
+        {
+          "text": "Appreciate it"
+        },
+        {
+          "text": "Cheers"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thanks a lot"
+        },
+        {
+          "text": "Thanks for the help"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Thank you buddy"
+        },
+        {
+          "text": "Thank you so much"
+        },
+        {
+          "text": "That was helpful"
+        },
+        {
+          "text": "Thnx"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greet_user",
+      "examples": [
+        {
+          "text": "can u suggest book"
+        },
+        {
+          "text": "Can you help me find books?"
+        },
+        {
+          "text": "compare these books for x category"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hey bot"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "suggest me a book"
+        },
+        {
+          "text": "what can you do?"
+        },
+        {
+          "text": "What is LibroBot?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Yo"
+        },
+        {
+          "text": "Yo!"
+        },
+        {
+          "text": "You there?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mood_based",
+      "examples": [
+        {
+          "text": "Can you suggest based on how I feel?"
+        },
+        {
+          "text": "Feeling romantic"
+        },
+        {
+          "text": "I feel bored"
+        },
+        {
+          "text": "I’m bored"
+        },
+        {
+          "text": "I'm feeling happy"
+        },
+        {
+          "text": "I’m feeling neutral"
+        },
+        {
+          "text": "I’m feeling sad"
+        },
+        {
+          "text": "I’m happy"
+        },
+        {
+          "text": "I’m not in the mood"
+        },
+        {
+          "text": "I’m really stressed"
+        },
+        {
+          "text": "I'm sad"
+        },
+        {
+          "text": "I’m super excited"
+        },
+        {
+          "text": "I want a book to match my mood"
+        },
+        {
+          "text": "Recommend a book for my mood"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "reading_level",
+      "examples": [
+        {
+          "text": "Advanced reading suggestions"
+        },
+        {
+          "text": "Books by reading difficulty"
+        },
+        {
+          "text": "Books for beginners"
+        },
+        {
+          "text": "Books for casual readers"
+        },
+        {
+          "text": "Books for high-level readers"
+        },
+        {
+          "text": "Easy books to start reading"
+        },
+        {
+          "text": "Give me beginner-friendly books"
+        },
+        {
+          "text": "I’m a beginner"
+        },
+        {
+          "text": "I want an intermediate level book"
+        },
+        {
+          "text": "I want something easy to read"
+        },
+        {
+          "text": "I want to level up my reading"
+        },
+        {
+          "text": "Recommend books for kids"
+        },
+        {
+          "text": "Suggest me an advanced book"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "recommend_book",
+      "examples": [
+        {
+          "text": "Any good book?"
+        },
+        {
+          "text": "Any good books to suggest?"
+        },
+        {
+          "text": "Any good romance books?"
+        },
+        {
+          "text": "Book for me in fantasy genre"
+        },
+        {
+          "text": "Book in the romance category"
+        },
+        {
+          "text": "Can you recommend me a book?"
+        },
+        {
+          "text": "Find a book I might like"
+        },
+        {
+          "text": "Give me a book recommendation"
+        },
+        {
+          "text": "Give me a romance book"
+        },
+        {
+          "text": "Give me a sci-fi book to read"
+        },
+        {
+          "text": "I’m looking for a good novel"
+        },
+        {
+          "text": "I need a reading suggestion"
+        },
+        {
+          "text": "I want a book suggestion"
+        },
+        {
+          "text": "Recommend a mystery book"
+        },
+        {
+          "text": "Recommend me a book in romance"
+        },
+        {
+          "text": "Recommend me a book of romance"
+        },
+        {
+          "text": "Recommend something"
+        },
+        {
+          "text": "Show me a good book"
+        },
+        {
+          "text": "Suggest a good book to read"
+        },
+        {
+          "text": "Suggest a thriller novel"
+        },
+        {
+          "text": "suggest me a book"
+        },
+        {
+          "text": "Suggest me a romantic novel"
+        },
+        {
+          "text": "What book should I read?"
+        },
+        {
+          "text": "yes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "top_books",
+      "examples": [
+        {
+          "text": "Best books of all time"
+        },
+        {
+          "text": "Bestselling books suggestion"
+        },
+        {
+          "text": "Give me a list of popular books"
+        },
+        {
+          "text": "Hot books this month"
+        },
+        {
+          "text": "Most loved books"
+        },
+        {
+          "text": "Most read books"
+        },
+        {
+          "text": "Popular books"
+        },
+        {
+          "text": "Show trending books"
+        },
+        {
+          "text": "Top 10 books currently"
+        },
+        {
+          "text": "Top 10 novels"
+        },
+        {
+          "text": "What are the best books right now?"
+        },
+        {
+          "text": "What's everyone reading these days?"
+        },
+        {
+          "text": "What’s popular in books now?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "age_group",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "adults",
+          "synonyms": [
+            "adults",
+            "grownups",
+            "mature"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kids",
+          "synonyms": [
+            "children",
+            "kids",
+            "toddlers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "teens",
+          "synonyms": [
+            "teenagers",
+            "teens",
+            "young adults"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "genre",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "biography",
+          "synonyms": [
+            "autobiography",
+            "biography",
+            "life story"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "drama",
+          "synonyms": [
+            "comedy",
+            "funny",
+            "humor",
+            "nonsense"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fantasy",
+          "synonyms": [
+            "delusional",
+            "fantasy",
+            "magic",
+            "magical",
+            "mythical",
+            "wizards"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Historical",
+          "synonyms": [
+            "historical",
+            "history",
+            "past",
+            "past era"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Horror",
+          "synonyms": [
+            "ghost",
+            "horror",
+            "scary",
+            "thriller"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mystery",
+          "synonyms": [
+            "detective",
+            "mystery",
+            "whodunit"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "non-fiction",
+          "synonyms": [
+            "non-fiction",
+            "real life",
+            "true story"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Romance",
+          "synonyms": [
+            "Love story",
+            "romance",
+            "romantic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sci-Fi",
+          "synonyms": [
+            "futuristic",
+            "science fiction",
+            "sci-fi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Self-help",
+          "synonyms": [
+            "motivation",
+            "self development",
+            "self-development",
+            "self-help"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "language",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bengali",
+          "synonyms": [
+            "bengali",
+            "বাংলা"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "english",
+          "synonyms": [
+            "angrezi",
+            "english"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hindi",
+          "synonyms": [
+            "hindi",
+            "hindustani",
+            "हिन्दी"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "marathi",
+          "synonyms": [
+            "marathi",
+            "मराठी"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tamil",
+          "synonyms": [
+            "tamil",
+            "தமிழ்"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "mood",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bored",
+          "synonyms": [
+            "bored",
+            "nothing to do",
+            "uninterested"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "excited",
+          "synonyms": [
+            "energetic",
+            "excited",
+            "thrilled"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "happy",
+          "synonyms": [
+            "cheerful",
+            "happy",
+            "joyful"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "romantic",
+          "synonyms": [
+            "in love",
+            "loving",
+            "romantic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sad",
+          "synonyms": [
+            "down",
+            "gloomy",
+            "sad",
+            "upset"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "reading_level",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "advanced",
+          "synonyms": [
+            "advanced",
+            "difficult",
+            "expert"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beginner",
+          "synonyms": [
+            "beginner",
+            "easy",
+            "newbie",
+            "simple"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "intermediate",
+          "synonyms": [
+            "average",
+            "intermediate",
+            "okay"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Popular Books",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are some top picks trending right now\n\n-It Ends With Us by Colleen Hoover\n-Atomic Habits by James Clear\n-The Alchemist by Paulo Coelho"
+              },
+              {
+                "text": "You could also check out Rich Dad Poor Dad, Verity, and The Subtle Art of Not Giving a F*ck — these are flying off the shelves."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1752432188076",
+      "conditions": "#top_books",
+      "dialog_node": "node_1_1752441055948",
+      "previous_sibling": "node_6_1752446119482"
+    },
+    {
+      "type": "standard",
+      "title": "Reading level",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_5_1752432188076",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#reading_level && @reading_level",
+      "dialog_node": "node_2_1752441109131",
+      "previous_sibling": "node_1_1752441055948"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Goodbye! 👋\nHappy reading 📖✨ Let me know whenever you need another recommendation!"
+              },
+              {
+                "text": "Bye! 👋 Come back anytime you want more book ideas."
+              },
+              {
+                "text": "Bye for now! 📘 May your next read be your favorite one yet."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "dialog_node": "node_4_1752212107408",
+      "previous_sibling": "node_8_1752431715676"
+    },
+    {
+      "type": "standard",
+      "title": "Fallback (didn't understand)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oops! I didn’t quite get that 😅\nYou can ask me for book recommendations by genre, author, mood, or even reading level! 📚\nTry saying: \"Suggest me a sci-fi book\" or \"Books for beginners\"."
+              },
+              {
+                "text": "Hmm, I didn’t quite catch that. 🤔 You can try saying things like “Suggest me a romance book” or “Books for beginners.”"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_5_1752212120928",
+      "previous_sibling": "node_4_1752212107408"
+    },
+    {
+      "type": "standard",
+      "title": "Recommend Books",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure..."
+              },
+              {
+                "text": "Sure.. There you go"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#recommend_book",
+      "dialog_node": "node_5_1752432188076",
+      "previous_sibling": "node_8_1752431543605"
+    },
+    {
+      "type": "standard",
+      "title": "Levels",
+      "parent": "node_2_1752441109131",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reading_level && #reading_level",
+      "dialog_node": "node_5_1752441269211"
+    },
+    {
+      "type": "standard",
+      "title": "Moods",
+      "parent": "node_8_1752441371491",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@mood",
+      "dialog_node": "node_5_1752441520043"
+    },
+    {
+      "type": "standard",
+      "title": "Neutral Mood",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not sure how you're feeling, but a good book can always help! Want a recommendation based on genre?"
+              },
+              {
+                "text": "Feeling chill? Try a comfort read like The Alchemist or Anne of Green Gables."
+              },
+              {
+                "text": "I'm here for you no matter the mood 😊 Just tell me what kind of story you're in the mood for!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_8_1752441371491",
+      "conditions": "#mood_based",
+      "dialog_node": "node_5_1752442107538",
+      "previous_sibling": "node_5_1752441520043"
+    },
+    {
+      "type": "standard",
+      "title": "Books by genre",
+      "parent": "node_5_1752432188076",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@genre",
+      "dialog_node": "node_6_1752446119482"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can suggest books based on genre, mood, author, language, or age group.\n\nWhat kind of book are you looking for?"
+              },
+              {
+                "text": "Hey there! I’m LibroBot📚 – your personal book recommender."
+              },
+              {
+                "text": "Hi, are you looking for books📚? I can help you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#greet_user",
+      "dialog_node": "node_8_1752431543605",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Thank_you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're most welcome! 😊 Happy reading!"
+              },
+              {
+                "text": "Anytime! 😊 Come back whenever you need your next great read."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#gratitude",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1752431715676",
+      "previous_sibling": "node_5_1752432188076"
+    },
+    {
+      "type": "standard",
+      "title": "Mood detection",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I see! You're feeling @mood. Want a book to match or change your mood? 😊📖"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1752432188076",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "@mood && #mood_based",
+      "dialog_node": "node_8_1752441371491",
+      "previous_sibling": "node_2_1752441109131"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Got it! Are you looking for:\n\n📘 Beginner level: The Little Prince, Charlotte's Web"
+              },
+              {
+                "text": "Try Diary of a Wimpy Kid or Charlotte’s Web — fun and super easy to get into."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1752441269211",
+      "conditions": "@reading_level:beginner",
+      "dialog_node": "response_1_1752446905828"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A comforting read might help. Try The Perks of Being a Wallflower or Tuesdays with Morrie."
+              },
+              {
+                "text": "A heartfelt read might help. Try Tuesdays with Morrie or The Perks of Being a Wallflower."
+              },
+              {
+                "text": "I’m here for you 💛 Maybe try Wonder or The Midnight Library — they’re comforting."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1752441520043",
+      "conditions": "@mood:sad",
+      "dialog_node": "response_3_1752466451056",
+      "previous_sibling": "response_6_1752466377785"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That’s awesome! How about an adventurous read like Life of Pi or The Hunger Games?"
+              },
+              {
+                "text": "That’s the spirit! Try something fast-paced like Six of Crows or Divergent."
+              },
+              {
+                "text": "Feeling pumped? 🚀 Explore The Power of Now or Born a Crime."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1752441520043",
+      "conditions": "@mood:excited",
+      "dialog_node": "response_4_1752466465121",
+      "previous_sibling": "response_9_1752466458296"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dive into Harry Potter by J.K. Rowling or The Hobbit by J.R.R. Tolkien for a magical experience."
+              },
+              {
+                "text": "Eragon by Christopher Paolini is another epic adventure if you love mythical worlds."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1752446119482",
+      "conditions": "@genre:Fantasy",
+      "dialog_node": "response_5_1752446197239",
+      "previous_sibling": "response_6_1752446190590"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Got it! Are you looking for:  📙 Intermediate: The Giver, To Kill a Mockingbird"
+              },
+              {
+                "text": "You could also try Holes by Louis Sachar — engaging and just the right level."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1752441269211",
+      "conditions": "@reading_level:intermediate",
+      "dialog_node": "response_5_1752446918405",
+      "previous_sibling": "response_1_1752446905828"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How about The Fault in Our Stars by John Green or Pride and Prejudice by Jane Austen?"
+              },
+              {
+                "text": "For something heartfelt, Me Before You by Jojo Moyes is a great choice."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1752446119482",
+      "conditions": "@genre:Romance",
+      "dialog_node": "response_6_1752446190590",
+      "previous_sibling": "response_7_1752446167869"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Got it! Are you looking for:  📕 Advanced: 1984 by Orwell, Sapiens by Yuval Noah Harari"
+              },
+              {
+                "text": "Crime and Punishment or The Fountainhead are great picks if you're up for a challenge."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1752441269211",
+      "conditions": "@reading_level:advanced",
+      "dialog_node": "response_6_1752446925197",
+      "previous_sibling": "response_5_1752446918405"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Love that energy! Try something fun like Eleanor Oliphant Is Completely Fine or The Rosie Project."
+              },
+              {
+                "text": "You’re shining! ✨ Dive into a feel-good book like The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared."
+              },
+              {
+                "text": "That’s awesome! A cheerful read like The Flatshare might match your vibe."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1752441520043",
+      "conditions": "@mood:happy",
+      "dialog_node": "response_6_1752466377785"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Try 'Sherlock Holmes' by Arthur Conan Doyle. A classic!"
+              },
+              {
+                "text": "Love a good twist? The Da Vinci Code by Dan Brown is another page-turning mystery!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1752446119482",
+      "conditions": "@genre:Mystery",
+      "dialog_node": "response_7_1752446167869"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You might love Dune by Frank Herbert or Ender's Game by Orson Scott Card — top picks in science fiction!"
+              },
+              {
+                "text": "You might enjoy Neuromancer by William Gibson — a true cyberpunk classic."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1752446119482",
+      "conditions": "@genre:Sci-Fi",
+      "dialog_node": "response_8_1752446227738",
+      "previous_sibling": "response_9_1752446211392"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Silent Patient by Alex Michaelides and Before I Go to Sleep by S.J. Watson are amazing thrillers."
+              },
+              {
+                "text": "If you're into chilling suspense, The Shining by Stephen King is a horror masterpiece."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1752446119482",
+      "conditions": "@genre:Horror",
+      "dialog_node": "response_9_1752446211392",
+      "previous_sibling": "response_5_1752446197239"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Boredom be gone! Pick up The Martian or Project Hail Mary for a thrilling escape."
+              },
+              {
+                "text": "Let’s shake off the boredom! Try Ready Player One or The Da Vinci Code — they’ll keep you turning pages!"
+              },
+              {
+                "text": "Percy Jackson, The Maze Runner, or Artemis Fowl — adventures await!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1752441520043",
+      "conditions": "@mood:bored",
+      "dialog_node": "response_9_1752466458296",
+      "previous_sibling": "response_3_1752466451056"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey there! I'm LibroBot📚 – your personal book recommender."
+              },
+              {
+                "text": "Welcome to your personal book buddy LibroBot📚 Ready to discover your next great read?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above",
+      "use_connect_to_support_prompt": "Connect to support",
+      "single_answer_clarification_prompt": "Something else"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "language": "en",
+  "description": "",
+  "name": "Get Book Recommendation"
+}

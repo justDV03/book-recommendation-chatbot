@@ -1,0 +1,26 @@
+age_group,kids,kids,children,toddlers
+age_group,teens,teens,teenagers,young adults
+age_group,adults,adults,mature,grownups
+genre,Self-help,motivation,self-development,self-help,self development
+genre,Sci-Fi,science fiction,futuristic,sci-fi
+genre,Romance,Love story,romantic,romance
+genre,Mystery,detective,whodunit,mystery
+genre,Fantasy,magic,wizards,mythical,magical,delusional,fantasy
+genre,Historical,history,past,past era,historical
+genre,Horror,scary,ghost,thriller,horror
+genre,non-fiction,real life,true story,non-fiction
+genre,biography,life story,autobiography,biography
+genre,drama,comedy,funny,nonsense,humor
+language,tamil,tamil,தமிழ்
+language,hindi,hindi,हिन्दी,hindustani
+language,english,english,angrezi
+language,marathi,marathi,मराठी
+language,bengali,bengali,বাংলা
+mood,sad,sad,upset,down,gloomy
+mood,happy,happy,cheerful,joyful
+mood,bored,bored,uninterested,nothing to do
+mood,romantic,romantic,in love,loving
+mood,excited,excited,thrilled,energetic
+reading_level,beginner,beginner,simple,easy,newbie
+reading_level,intermediate,intermediate,average,okay
+reading_level,advanced,advanced,expert,difficult
