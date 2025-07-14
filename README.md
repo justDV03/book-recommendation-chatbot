@@ -20,7 +20,9 @@ This is a smart conversational assistant that recommends books based on genre, m
 - `docs/how_it_works.md`: Breakdown of logic and structure
 
 ## 📸 Screenshots
-Chatbot demo - ![Chatbot Flow](Screenshots/Chatbot.png)
+Chatbot demo - 
+![Chatbot Flow](Screenshots/Chatbot.png)
+
 Dialog Nodes - ![Chatbot Flow](Screenshots/Dialog_Nodes.png)
 Entities - ![Chatbot Flow](Screenshots/Entities.png)
 Intents - ![Chatbot Flow](Screenshots/Intents.png)
